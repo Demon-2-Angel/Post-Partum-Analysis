@@ -1,4 +1,4 @@
 pandas
-streamlit_option_menu
+streamlit-option-menu
 reqs
 
