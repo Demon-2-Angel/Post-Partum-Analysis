@@ -1,6 +1,4 @@
-numpy
 pandas
 streamlit_option_menu
-streamlit.components.v1
 reqs
-matplotlib.pyplot
+
