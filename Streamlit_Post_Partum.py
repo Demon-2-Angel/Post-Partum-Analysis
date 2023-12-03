@@ -158,7 +158,52 @@ elif selected == "Research Question-1":
     # Tableau Public Dashboard
     html_DashBoard1 = """<div class='tableauPlaceholder' id='viz1701200066433' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostPartumDepression_17008109983390&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PostPartumDepression_17008109983390&#47;Dashboard2' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostPartumDepression_17008109983390&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1701200066433');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1300px';vizElement.style.height='950px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"""
     components.html(html_DashBoard1, width=1500, height=1000)
+    st.divider()
+    st.subheader("Obeservations")
+    st.markdown("""## Key Details:
 
+### General:
+- **Post-Partum Women's Emotions:**
+  - Irritation and one-sided connection with the baby are common post-partum issues.
+  - Sleep problems lasting two or more days are prevalent.
+  - Causes: Attributed to the baby or depression.
+
+- **Age-Related Observations:**
+  - Irritation towards the baby and partner increases but decreases after age 45.
+  - Suggested reason for the decline: Maturity.
+
+### Age Groups:
+
+#### 25-30:
+- **Sleep and Connection with Baby:**
+  - Lack of sleep affects the connection with the baby, especially if decision-making is impaired.
+  - General association of connection issues and irritation, heightened with less sleep and impaired decision-making.
+  - Higher irritation towards baby and partner may be due to the youthfulness of this age group.
+
+#### 30-35:
+- **Maturity Impact:**
+  - Some maturity observed, as sleep-deprived mothers can still bond with the baby.
+  - Impaired decision-making with low sleep leads to irritability.
+  - Sleep deprivation is common but does not necessarily impair decision-making.
+
+#### 35-40:
+- **Sleep Deprivation and Irritation:**
+  - Sleep deprivation in this age group is linked to irritation and connection issues.
+  - Sleep is crucial due to the proneness to irritation.
+  - Decision impairment is common with lack of sleep.
+
+#### 40-45:
+- **Sleep Deprivation and Decision Making:**
+  - Sleep deprivation is present, but less decision-making impairment compared to other age groups.
+  - Highest irritation towards partner and baby, but they can still connect with the baby.
+
+#### 45-50:
+- **Maturity and Decision Making:**
+  - High maturity observed; easy decision-making even with no sleep for two days.
+  - Minimal to no decision-making impairment.
+  - Reduced irritation towards partner and baby.
+"""
+                  )
 
 
 
