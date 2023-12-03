@@ -216,6 +216,84 @@ elif selected == "Research Question-2":
     html_DashBoard2 = """<div class='tableauPlaceholder' id='viz1701199925161' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostPartumDepression_17008109983390&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PostPartumDepression_17008109983390&#47;Dashboard3' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostPartumDepression_17008109983390&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1701199925161');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1300px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='950px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1300px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='950px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.minWidth='1300px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='950px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"""
     
     components.html(html_DashBoard2, width=1500, height=1000)
+    st.divider()
+    st.subheader("Obeservations")
+    st.markdown("""## Age Group 25-30:
+
+### 1. Anxiety and Appetite:
+- **Finding:** 33.15% of women in this age group are anxious, but it doesn't significantly impact their appetite.
+- **Observation:** Anxiety seems to coexist without a direct effect on eating habits.
+
+### 2. Guilt and Sadness:
+- **Finding:** Majority of women feeling guilty don't feel sad.
+- **Observation:** Guilt may not directly contribute to sadness.
+
+### 3. Suicide Attempts:
+- **Finding:** Suicide attempts are relatively low.
+- **Observation:** Despite anxiety and guilt, effective coping mechanisms may be in place.
+
+## Age Group 30-35:
+
+### 1. Anxiety and Appetite:
+- **Finding:** 43.25% of women are not anxious, and it doesn't impact their appetite significantly.
+- **Observation:** Anxiety is less prevalent and minimally affects eating habits.
+
+### 2. Guilt and Sadness:
+- **Finding:** Majority of guilty women don't feel sad.
+- **Observation:** Similar to the younger age group, guilt may not strongly correlate with sadness.
+
+### 3. Suicide Attempts:
+- **Finding:** Suicide attempts are less frequent.
+- **Observation:** Despite some anxiety, women in this age group show resilience against severe outcomes.
+
+## Age Group 35-40:
+
+### 1. Anxiety and Appetite:
+- **Finding:** 40.11% of women experience anxiety, but it doesn't affect appetite significantly.
+- **Observation:** Anxiety doesn't strongly influence eating habits.
+
+### 2. Guilt and Sadness:
+- **Finding:** Majority of women feeling guilty don't feel sad.
+- **Observation:** Consistent with younger groups, guilt may not directly lead to sadness.
+
+### 3. Suicide Attempts:
+- **Finding:** Higher rates of suicide attempts.
+- **Observation:** Increased suicide attempts suggest a need for targeted mental health interventions.
+
+## Age Group 45-50:
+
+### 1. Anxiety and Appetite:
+- **Finding:** 43.68% of women experience anxiety, but it doesn't affect appetite significantly.
+- **Observation:** Similar to the 35-40 group, anxiety doesn't strongly correlate with changes in appetite.
+
+### 2. Guilt and Sadness:
+- **Finding:** Majority of guilty women don't feel sad.
+- **Observation:** Guilt doesn't significantly contribute to sadness in this age group.
+
+### 3. Suicide Attempts:
+- **Finding:** Higher rates of suicide attempts.
+- **Observation:** High prevalence of suicide attempts emphasizes the need for mental health support.
+
+## General Observations:
+
+### 1. Consistent Trends:
+- Across age groups, the majority of women feeling guilty do not report feeling sad.
+
+### 2. Appetite and Anxiety:
+- Anxiety, in general, does not appear to have a profound impact on appetite across age groups.
+
+### 3. Suicide Attempts:
+- Notable suicide attempts in the 35-50 age range highlight a critical need for mental health interventions and support.
+
+### 4. Individual Coping Strategies:
+- Despite anxiety and guilt, some women demonstrate resilience, as indicated by lower suicide attempt rates.
+
+### 5. Recommendations:
+- Develop targeted mental health interventions for women in the 35-50 age range.
+- Explore and promote effective coping mechanisms identified in groups with lower suicide attempt rates.
+
+    
+    """)
 
 
 #Contributors Page
