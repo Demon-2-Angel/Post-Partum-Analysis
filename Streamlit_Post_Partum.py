@@ -218,77 +218,77 @@ elif selected == "Research Question-2":
     components.html(html_DashBoard2, width=1500, height=1000)
     st.divider()
     st.subheader("Obeservations")
-    st.markdown("""## Age Group 25-30:
+    st.markdown("""### Age Group 25-30:
 
-### 1. Anxiety and Appetite:
+#### 1. Anxiety and Appetite:
 - **Finding:** 33.15% of women in this age group are anxious, but it doesn't significantly impact their appetite.
 - **Observation:** Anxiety seems to coexist without a direct effect on eating habits.
 
-### 2. Guilt and Sadness:
+#### 2. Guilt and Sadness:
 - **Finding:** Majority of women feeling guilty don't feel sad.
 - **Observation:** Guilt may not directly contribute to sadness.
 
-### 3. Suicide Attempts:
+#### 3. Suicide Attempts:
 - **Finding:** Suicide attempts are relatively low.
 - **Observation:** Despite anxiety and guilt, effective coping mechanisms may be in place.
 
-## Age Group 30-35:
+### 30-35:
 
-### 1. Anxiety and Appetite:
+#### 1. Anxiety and Appetite:
 - **Finding:** 43.25% of women are not anxious, and it doesn't impact their appetite significantly.
 - **Observation:** Anxiety is less prevalent and minimally affects eating habits.
 
-### 2. Guilt and Sadness:
+#### 2. Guilt and Sadness:
 - **Finding:** Majority of guilty women don't feel sad.
 - **Observation:** Similar to the younger age group, guilt may not strongly correlate with sadness.
 
-### 3. Suicide Attempts:
+#### 3. Suicide Attempts:
 - **Finding:** Suicide attempts are less frequent.
 - **Observation:** Despite some anxiety, women in this age group show resilience against severe outcomes.
 
-## Age Group 35-40:
+### Age Group 35-40:
 
-### 1. Anxiety and Appetite:
+#### 1. Anxiety and Appetite:
 - **Finding:** 40.11% of women experience anxiety, but it doesn't affect appetite significantly.
 - **Observation:** Anxiety doesn't strongly influence eating habits.
 
-### 2. Guilt and Sadness:
+#### 2. Guilt and Sadness:
 - **Finding:** Majority of women feeling guilty don't feel sad.
 - **Observation:** Consistent with younger groups, guilt may not directly lead to sadness.
 
-### 3. Suicide Attempts:
+#### 3. Suicide Attempts:
 - **Finding:** Higher rates of suicide attempts.
 - **Observation:** Increased suicide attempts suggest a need for targeted mental health interventions.
 
-## Age Group 45-50:
+### Age Group 45-50:
 
-### 1. Anxiety and Appetite:
+#### 1. Anxiety and Appetite:
 - **Finding:** 43.68% of women experience anxiety, but it doesn't affect appetite significantly.
 - **Observation:** Similar to the 35-40 group, anxiety doesn't strongly correlate with changes in appetite.
 
-### 2. Guilt and Sadness:
+#### 2. Guilt and Sadness:
 - **Finding:** Majority of guilty women don't feel sad.
 - **Observation:** Guilt doesn't significantly contribute to sadness in this age group.
 
-### 3. Suicide Attempts:
+#### 3. Suicide Attempts:
 - **Finding:** Higher rates of suicide attempts.
 - **Observation:** High prevalence of suicide attempts emphasizes the need for mental health support.
 
 ## General Observations:
 
-### 1. Consistent Trends:
+#### 1. Consistent Trends:
 - Across age groups, the majority of women feeling guilty do not report feeling sad.
 
-### 2. Appetite and Anxiety:
+#### 2. Appetite and Anxiety:
 - Anxiety, in general, does not appear to have a profound impact on appetite across age groups.
 
-### 3. Suicide Attempts:
+#### 3. Suicide Attempts:
 - Notable suicide attempts in the 35-50 age range highlight a critical need for mental health interventions and support.
 
-### 4. Individual Coping Strategies:
+#### 4. Individual Coping Strategies:
 - Despite anxiety and guilt, some women demonstrate resilience, as indicated by lower suicide attempt rates.
 
-### 5. Recommendations:
+#### 5. Recommendations:
 - Develop targeted mental health interventions for women in the 35-50 age range.
 - Explore and promote effective coping mechanisms identified in groups with lower suicide attempt rates.
 
