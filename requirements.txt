@@ -1,6 +1,5 @@
 pandas
 streamlit-option-menu
-option-menu
 numpy
 reqs
 
