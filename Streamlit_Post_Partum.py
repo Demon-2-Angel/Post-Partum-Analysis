@@ -35,7 +35,7 @@ people= st.container()
 
 # Home Page
 if selected == "Home":
-    st.header("Presentation by Group-18")
+    st.header("Welcome to our Application!")
     #dataframe
     st.divider()
     st.subheader("Click to observe Dataset")
