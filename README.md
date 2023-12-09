@@ -88,6 +88,39 @@ We present you a comprehensive data analysis project on Postpartum Depression. T
 - Anxiety has minimal impact on eating habits, with notable coping strategies observed.
 - Higher rates of suicide attempts in the 35-50 age range indicate a critical need for mental health interventions.
 
+## Analysis through tableau
+
+
+
+### 1. Sleep and Postpartum Emotions:
+
+- **Youthful Age Group (25-30):** Postpartum women in this age group experience heightened irritation and impaired decision-making with less sleep. The connection with the baby is affected, emphasizing the impact of sleep on emotional well-being.
+  
+- **Maturity (35-50):** Older age groups show a mitigating effect of maturity, with less impact on bonding and decision-making even with sleep deprivation. This suggests that maturity may play a protective role in managing postpartum emotional challenges.
+
+### 2. Guilt, Anxiety, and Coping Strategies:
+
+- **Guilt and Sadness:** Across all age groups, the majority of women feeling guilty do not report feeling sad. Guilt does not strongly correlate with sadness, indicating that these two emotions may be independent of each other in the postpartum context.
+
+- **Anxiety and Appetite:** Anxiety has minimal impact on eating habits across age groups. Effective coping mechanisms are observed, as anxiety does not significantly affect dietary behaviors. This suggests that women employ various strategies to maintain their appetite despite feelings of anxiety.
+
+- **Suicide Attempts:** The 35-50 age range shows higher rates of suicide attempts. This underscores the critical need for targeted mental health interventions and support in this specific age group.
+
+### 3. Overall Insights:
+
+- **Consistent Trends:** Patterns across age groups reveal consistent trends, such as the lack of strong correlation between guilt and sadness. These insights provide a nuanced understanding of the emotional experiences of postpartum women.
+
+- **Appetite and Anxiety:** Anxiety, in general, does not appear to have a profound impact on appetite across different age groups. This suggests a level of resilience or coping mechanisms that enable women to maintain their dietary habits despite elevated anxiety levels.
+
+- **Individual Coping Strategies:** Despite the challenges of postpartum emotions, some women demonstrate resilience, as indicated by lower suicide attempt rates. Identifying and promoting these effective coping mechanisms could be valuable in supporting overall mental well-being.
+
+### 4. Recommendations:
+
+- **Targeted Interventions:** Develop targeted mental health interventions, particularly for women in the 35-50 age range, where higher rates of suicide attempts are observed. Tailoring interventions to address specific age-related challenges can enhance their effectiveness.
+
+- **Explore Coping Mechanisms:** Further exploration and promotion of effective coping mechanisms identified in groups with lower suicide attempt rates. Understanding and disseminating these strategies could contribute to improved mental health outcomes for postpartum women.
+
+
 ## Data Analytics Tools
 
 The project utilized various data analytics tools to gather, analyze, and visualize the data, facilitating a deeper understanding of postpartum depression. The team has developed a web application for interactive exploration of the findings, accessible [here](https://post-partum-analysis.streamlit.app/). The project's source code is available on [GitHub](https://github.com/Demon-2-Angel/Post-Partum-Analysis).
