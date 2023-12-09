@@ -62,6 +62,9 @@ We present you a comprehensive data analysis project on Postpartum Depression. T
 ### Research Question 1
 *How Sleeping Affects Bonding & Concentration in Postpartum Depression?*
 
+<img src="https://github.com/Demon-2-Angel/Post-Partum-Analysis/blob/main/Images/Dashboard%202.png">
+
+
 **Objective:** Explore the relationship between sleep patterns, bonding with the baby, and decision-making abilities in postpartum women.
 
 **Methodology:**
@@ -76,6 +79,7 @@ We present you a comprehensive data analysis project on Postpartum Depression. T
 ### Research Question 2
 *Does Guilt Increase Anxiousness & Affect Their Diet?*
 
+<img src="https://github.com/Demon-2-Angel/Post-Partum-Analysis/blob/main/Images/Dashboard%203.png">
 **Objective:** Investigate the correlation between feelings of guilt, anxiety levels, and dietary habits in postpartum women.
 
 **Methodology:**
